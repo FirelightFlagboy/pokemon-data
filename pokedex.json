@@ -930,9 +930,9 @@
     "base": {
       "HP": 35,
       "Attack": 55,
-      "Defense": 40,
+      "Defense": 30,
       "Sp. Attack": 50,
-      "Sp. Defense": 50,
+      "Sp. Defense": 40,
       "Speed": 90
     },
     "species": "Mouse Pokémon",
