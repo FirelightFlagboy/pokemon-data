@@ -1942,7 +1942,7 @@
     "type": ["Ground"],
     "base": {
       "HP": 35,
-      "Attack": 100,
+      "Attack": 80,
       "Defense": 50,
       "Sp. Attack": 50,
       "Sp. Defense": 70,
