@@ -8420,10 +8420,10 @@
     },
     "type": ["Fire", "Rock"],
     "base": {
-      "HP": 60,
+      "HP": 50,
       "Attack": 50,
       "Defense": 120,
-      "Sp. Attack": 90,
+      "Sp. Attack": 80,
       "Sp. Defense": 80,
       "Speed": 30
     },
