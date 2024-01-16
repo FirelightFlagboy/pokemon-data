@@ -890,7 +890,7 @@
     "type": ["Poison"],
     "base": {
       "HP": 60,
-      "Attack": 95,
+      "Attack": 85,
       "Defense": 69,
       "Sp. Attack": 65,
       "Sp. Defense": 79,
