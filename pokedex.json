@@ -20472,7 +20472,7 @@
     "type": ["Water", "Ground"],
     "base": {
       "HP": 105,
-      "Attack": 95,
+      "Attack": 85,
       "Defense": 75,
       "Sp. Attack": 85,
       "Sp. Defense": 75,
