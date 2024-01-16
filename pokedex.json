@@ -1161,7 +1161,7 @@
     "type": ["Poison", "Ground"],
     "base": {
       "HP": 90,
-      "Attack": 92,
+      "Attack": 82,
       "Defense": 87,
       "Sp. Attack": 75,
       "Sp. Defense": 85,
