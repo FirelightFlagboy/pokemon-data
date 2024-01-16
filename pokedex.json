@@ -33019,6 +33019,14 @@
       "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/872.png",
       "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/872.png",
       "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/872.png"
+    },
+    "base": {
+      "HP": 30,
+      "Attack": 25,
+      "Defense": 35,
+      "Sp. Attack": 45,
+      "Sp. Defense": 30,
+      "Speed": 20
     }
   },
   {
