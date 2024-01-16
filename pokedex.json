@@ -27021,12 +27021,12 @@
     },
     "type": ["Ghost", "Grass"],
     "base": {
-      "HP": 59,
+      "HP": 44,
       "Attack": 66,
       "Defense": 70,
       "Sp. Attack": 44,
       "Sp. Defense": 55,
-      "Speed": 41
+      "Speed": 56
     },
     "species": "Pumpkin Pokémon",
     "description": "It is said to carry wandering spirits to the place where they belong so they can move on.",
