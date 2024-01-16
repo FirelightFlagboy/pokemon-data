@@ -33588,6 +33588,14 @@
       "sprite": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/888.png",
       "thumbnail": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/888.png",
       "hires": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/888.png"
+    },
+    "base": {
+      "HP": 92,
+      "Attack": 130,
+      "Defense": 115,
+      "Sp. Attack": 80,
+      "Sp. Defense": 115,
+      "Speed": 138
     }
   },
   {
