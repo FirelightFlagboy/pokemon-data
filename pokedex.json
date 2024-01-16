@@ -541,7 +541,7 @@
     "type": ["Bug", "Poison"],
     "base": {
       "HP": 65,
-      "Attack": 90,
+      "Attack": 80,
       "Defense": 40,
       "Sp. Attack": 45,
       "Sp. Defense": 80,
