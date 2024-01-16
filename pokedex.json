@@ -20081,7 +20081,7 @@
     },
     "type": ["Psychic", "Flying"],
     "base": {
-      "HP": 65,
+      "HP": 55,
       "Attack": 45,
       "Defense": 43,
       "Sp. Attack": 55,
