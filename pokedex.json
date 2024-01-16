@@ -2375,7 +2375,7 @@
     "type": ["Water", "Fighting"],
     "base": {
       "HP": 90,
-      "Attack": 95,
+      "Attack": 85,
       "Defense": 95,
       "Sp. Attack": 70,
       "Sp. Defense": 90,
