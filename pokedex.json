@@ -27060,12 +27060,12 @@
     },
     "type": ["Ghost", "Grass"],
     "base": {
-      "HP": 85,
-      "Attack": 100,
+      "HP": 55,
+      "Attack": 85,
       "Defense": 122,
       "Sp. Attack": 58,
       "Sp. Defense": 75,
-      "Speed": 54
+      "Speed": 99
     },
     "species": "Pumpkin Pokémon",
     "description": "It enwraps its prey in its hairlike arms. It sings joyfully as it observes the suffering of its prey.",
