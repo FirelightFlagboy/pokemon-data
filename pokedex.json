@@ -23425,7 +23425,7 @@
     "type": ["Ice"],
     "base": {
       "HP": 95,
-      "Attack": 130,
+      "Attack": 110,
       "Defense": 80,
       "Sp. Attack": 70,
       "Sp. Defense": 80,
