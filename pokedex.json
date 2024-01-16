@@ -19345,7 +19345,7 @@
     "type": ["Normal"],
     "base": {
       "HP": 85,
-      "Attack": 110,
+      "Attack": 100,
       "Defense": 90,
       "Sp. Attack": 45,
       "Sp. Defense": 90,
