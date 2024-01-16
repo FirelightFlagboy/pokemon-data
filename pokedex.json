@@ -10911,9 +10911,9 @@
       "HP": 70,
       "Attack": 60,
       "Defense": 62,
-      "Sp. Attack": 100,
+      "Sp. Attack": 80,
       "Sp. Defense": 82,
-      "Speed": 80
+      "Speed": 60
     },
     "species": "Eyeball Pokémon",
     "description": "Its thin, winglike antennae are highly absorbent. It waits out rainy days in tree hollows.",
