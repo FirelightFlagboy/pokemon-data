@@ -20782,7 +20782,7 @@
     "type": ["Bug", "Poison"],
     "base": {
       "HP": 60,
-      "Attack": 100,
+      "Attack": 90,
       "Defense": 89,
       "Sp. Attack": 55,
       "Sp. Defense": 69,
