@@ -8690,7 +8690,7 @@
     },
     "type": ["Water", "Flying"],
     "base": {
-      "HP": 85,
+      "HP": 65,
       "Attack": 40,
       "Defense": 70,
       "Sp. Attack": 80,
