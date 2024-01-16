@@ -8538,11 +8538,11 @@
     },
     "type": ["Water", "Rock"],
     "base": {
-      "HP": 65,
+      "HP": 55,
       "Attack": 55,
-      "Defense": 95,
+      "Defense": 85,
       "Sp. Attack": 65,
-      "Sp. Defense": 95,
+      "Sp. Defense": 85,
       "Speed": 35
     },
     "species": "Coral Pokémon",
