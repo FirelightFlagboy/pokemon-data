@@ -12050,9 +12050,9 @@
     "base": {
       "HP": 65,
       "Attack": 47,
-      "Defense": 75,
+      "Defense": 55,
       "Sp. Attack": 73,
-      "Sp. Defense": 85,
+      "Sp. Defense": 75,
       "Speed": 85
     },
     "species": "Firefly Pokémon",
