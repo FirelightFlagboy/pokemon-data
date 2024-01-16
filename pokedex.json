@@ -13706,11 +13706,11 @@
     },
     "type": ["Psychic"],
     "base": {
-      "HP": 75,
+      "HP": 65,
       "Attack": 50,
-      "Defense": 80,
+      "Defense": 70,
       "Sp. Attack": 95,
-      "Sp. Defense": 90,
+      "Sp. Defense": 80,
       "Speed": 65
     },
     "species": "Wind Chime Pokémon",
