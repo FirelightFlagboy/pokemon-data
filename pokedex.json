@@ -6965,7 +6965,7 @@
     "base": {
       "HP": 90,
       "Attack": 75,
-      "Defense": 85,
+      "Defense": 75,
       "Sp. Attack": 115,
       "Sp. Defense": 90,
       "Speed": 55
