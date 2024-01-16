@@ -12921,7 +12921,7 @@
     },
     "type": ["Rock", "Psychic"],
     "base": {
-      "HP": 90,
+      "HP": 70,
       "Attack": 55,
       "Defense": 65,
       "Sp. Attack": 95,
